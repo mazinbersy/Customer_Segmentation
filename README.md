@@ -20,7 +20,7 @@ Columns:
 
 ```
 📦 project/
-├── model.py                     # Main Python script
+├── model.ipynb                  # Main Jupyter Notebook script
 ├── Mall_Customers.csv           # Dataset
 └── README.md                    # This file
 ```
